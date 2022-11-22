@@ -1,0 +1,22 @@
+.presenca__pessoa {
+    background-color: #705cee;
+    border-radius: 5px;
+    height: 7vh;
+    width: 45vw;
+    font-size: 18px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px;
+    margin-bottom: 10px;
+}
+
+.pessoa__nome {
+    font-weight: bold;
+}
+
+.pessoa__horario {
+    font-size: 15px;
+}
